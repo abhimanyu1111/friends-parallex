@@ -7,7 +7,7 @@ The idea behind this project came from creating a **website to list friends’ p
 
 ## 🔗 Live Demo
 
-Check out the live site here: [Friends Parallax](https://your-netlify-link.netlify.app)
+Check out the live site here: [Friends-Place-Parallax](https://friends-place-parallax.netlify.app)
 
 ---------------------------------------------------------------------------------------------
 
